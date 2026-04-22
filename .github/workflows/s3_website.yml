@@ -5,8 +5,7 @@ on:
     branches:
       - 'main'
       - 'dev'
-    paths:
-      - 'index.html'
+  
 
 jobs:
   build:
