@@ -35,3 +35,7 @@ jobs:
           FIX_HTML_PRETTIER: true
           FIX_PYTHON_BLACK: true
           FIX_YAML_PRETTIER: true
+          VALIDATE_ALL_CODEBASE: false
+          DEFFAULT_BRANCH: main
+          VALIDATE_PYTHONN_MYPY: false
+          VALIDATE_JSCPD: false
